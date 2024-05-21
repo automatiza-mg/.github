@@ -10,7 +10,7 @@
 - 😄 Conheça [nossa equipe](https://github.com/orgs/automatiza-mg/people) 🧑🧑.
 - ⚡ Fato engraçado: Não gostamos de tarefas repetitivas 🤣🤣🤣!
 
-[![automatiza-mg's GitHub stats](https://github-readme-stats.vercel.app/api?username=automatiza-mg&show_icons=true&theme=dracula&include_all_commits=true)](https://github.com/gabrielbdornas/github-readme-stats)
+[![automatiza-mg's GitHub stats](https://github-readme-stats.vercel.app/api?username=automatiza-mg&show_icons=true&theme=dracula&include_all_commits=true)](https://github.com/automatiza-mg/github-readme-stats)
 
    
 <div> 
