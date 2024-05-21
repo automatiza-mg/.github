@@ -9,3 +9,12 @@
     - Nosso site [Automatiza-mg](https://automatiza-mg.github.io/automatizacoes/) e conheça nossos robôs 🤖🤖!
 - 😄 Conheça [nossa equipe](https://github.com/orgs/automatiza-mg/people) 🧑🧑.
 - ⚡ Fato engraçado: Não gostamos de tarefas repetitivas 🤣🤣🤣!
+
+[![automatiza-mg's GitHub stats](https://github-readme-stats.vercel.app/api?username=automatiza-mg&show_icons=true&theme=dracula&include_all_commits=true)](https://github.com/gabrielbdornas/github-readme-stats)
+
+   
+<div> 
+  <a href="https://www.youtube.com/@automatiza-mg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://automatiza-mg.github.io/automatizacoes/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
+  <a href = "mailto:simplificacao@planejamento.mg.gov.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div> 
