@@ -10,9 +10,6 @@
 - 😄 Conheça [nossa equipe](https://github.com/orgs/automatiza-mg/people) 🧑🧑.
 - ⚡ Fato engraçado: Não gostamos de tarefas repetitivas 🤣🤣🤣!
 
-[![automatiza-mg's GitHub stats](https://github-readme-stats.vercel.app/api?org=automatiza-mg&show_icons=true&theme=dracula&include_all_commits=true)](https://github.com/automatiza-mg/github-readme-stats)
-
-   
 <div> 
   <a href="https://www.youtube.com/@automatiza-mg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://automatiza-mg.github.io/automatizacoes/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
